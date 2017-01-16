@@ -1,0 +1,15 @@
+{
+  "name": "excelybot",
+  "version": "1.0.0",
+  "description": "Excel Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "Carlos Reyes-Rico",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.5.3",
+    "restify": "^4.3.0"
+  }
+}
